@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkboilerplate_docusaurus_tailwindcss_shadcnui=self.webpackChunkboilerplate_docusaurus_tailwindcss_shadcnui||[]).push([[235],{8552:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
